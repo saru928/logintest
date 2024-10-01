@@ -10,11 +10,12 @@
 </head>
 
 <body>
-	<s:form action = "loginAction">
+logintest
+	<%-- <s:form action = "loginAction">
 		<s:textfield name="name"/>
 		<s:password name="password"/>
 		<s:submit value="ログイン"/>
-	</s:form>
+	</s:form> --%>
 	
 </body>
 </html>
